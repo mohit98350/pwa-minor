@@ -13,8 +13,11 @@ const Landing = () => {
    margin:'200px auto',
    backgroundColor:'white'
  }
+
   return (
-    <>
+    
+    <div>
+   
     <Grid>
       <Paper elevation={10} style={paperStyle}>
         
@@ -38,10 +41,10 @@ const Landing = () => {
     </Grid>
     
     
-    
-   
+ 
+    </div>
 
-    </>
+ 
   )
 };
 

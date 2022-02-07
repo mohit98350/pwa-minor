@@ -1,13 +1,11 @@
-body {
-    background-image: url('https://www.juit.ac.in/front/images/banner.jpg');
-    background-position: center center;
+.bg {
+    /* background-image: url('https://www.juit.ac.in/front/images/banner.jpg');
+    background-position: center ;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    overflow: hidden;
-    /* filter: blur(2px);
-    -webkit-filter: blur(2px); */
-  
+    overflow: hidden; */
+    
   
 }
 .Gsuit{
